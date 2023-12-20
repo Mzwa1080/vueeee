@@ -31,7 +31,7 @@
               <RouterLink to="/resume" class="nav-link "> Resume </RouterLink>
             </li>
             <li class="nav-item">
-              <RouterLink to="/projects" class="nav-link "> projects </RouterLink>
+              <RouterLink to="/projects" class="nav-link "> Projects </RouterLink>
             </li>
             <li class="nav-item">
               <RouterLink to="/testimonials" class="nav-link "> Testimonials </RouterLink>

@@ -5,6 +5,10 @@
       <div class="row">
         <h1>Home</h1>
       </div>
+
+      <div class="row">
+        {{   }}
+      </div>
     </div>
 
 
@@ -17,7 +21,12 @@
 
 export default {
   name: 'HomeView',
-  components: {
-}
+  components: {},
+  computed : {
+    jobTitle(){
+      return this.$store.state.jobTitle
+    },
+    
+  }
 }
 </script>

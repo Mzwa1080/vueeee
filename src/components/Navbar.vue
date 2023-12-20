@@ -4,11 +4,8 @@
       <div class="container-fluid">
         <RouterLink to="/">
           <img
-            class="img-fluid w-25"
-            w-25
-            src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQcSyv1eUmcD8zykpoBCi1JzzDKdny6idrSmkg9MUP4EpT-GkWzoOFd1HCD62H1KDxmcJautuEG76xjI5yfdarkE4-BMA=w1292-h1252"
-            
-            alt="logo"
+            class="img-fluid "
+            src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQcSyv1eUmcD8zykpoBCi1JzzDKdny6idrSmkg9MUP4EpT-GkWzoOFd1HCD62H1KDxmcJautuEG76xjI5yfdarkE4-BMA=w1292-h1252" alt="logo"
           />
         </RouterLink>
         <button
